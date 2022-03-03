@@ -8,7 +8,7 @@ temperature, light intensity and air pressure. The probe sends the measured data
 protocol to the receiver (computer) that graphically displays the measured data for analyzeing.
 
 This project was made by: 
-Maja Benković
-Petar Crnjak
+Maja Benković, 
+Petar Crnjak, 
 Dominik Juričan and
 Tomislav Sladoljev
